@@ -1,0 +1,38 @@
+#navPage{
+    text-align: center;
+    background-color:red;
+    font-family: 'arial', sans-serif;
+
+}
+
+
+.listbtn{
+    background-color:red;
+    color:black;
+    font-family: 'arial', sans-serif;
+    border-radius: 2px; 
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 45%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+}
+
+#searchbtn{
+    background-color:red;
+    color: black;
+    font-family: 'arial', sans-serif;
+    border-radius: 5px; 
+    
+
+}
+
+.left_div{
+    height: 96%; 
+}
+
+.card-body{
+    background-color:red;
+    color:black;
+}
